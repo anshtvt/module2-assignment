@@ -1,2 +1,2 @@
-# module2-assignment
-THis is the solution for the module 2 - coursera 
+# module2_assignment
+Solution for the assignment of module 2.
